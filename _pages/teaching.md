@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Fall 2023: Statics
+Fall 2023: Statics; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EdlRhIguaMtGlr3FexZxAXQBtNA57Khn7YB-HQl0rh6-lw?e=XnvSMx); Final
 
 [comment]: <For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.>
 
