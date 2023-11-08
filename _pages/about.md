@@ -26,7 +26,9 @@ My name is <strong>Suwon Bae</strong> and I am an Assistant Professor in the [Sc
 Prior to joining PNU, I was a postdoctoral research associate (PI: [Dr. Kevin Yager](http://yager-research.ca)) in the [Center for Functional Nanomaterials](https://www.bnl.gov/cfn/) at Brookhaven National Laboratory.
 I received my Ph.D. degree from Cornell University under the supervision of [Prof. Meredith Silberstein](https://silbersteinlab.com) and B.S. degree from Hanyang University.
 
-I am interested in ...
+Our group aims to understand the complex behaviors of polymers via bottom-up, predictive modeling and then reflect this knowledge to the development of material design principles.
+
+Our research interest stands at the intersection of computational science, applied mechanics, data science, and machine learning for simultaion- and data-driven materials designs.
 
 [comment]: <Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.>
 
