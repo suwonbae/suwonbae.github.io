@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-Fall 2023: Statics; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EdlRhIguaMtGlr3FexZxAXQBtNA57Khn7YB-HQl0rh6-lw?e=XnvSMx); Final
+Fall 2023: Statics; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EdlRhIguaMtGlr3FexZxAXQBtNA57Khn7YB-HQl0rh6-lw?e=XnvSMx); [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EY5gGVM-0tVEgL0lirUX-SsBbjbLyO8FxG922GRX9q7nhg?e=7nXi0T)
+
+Spring 2024: Solid Mechanics & Engineering Design
 
 [comment]: <For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.>
 
