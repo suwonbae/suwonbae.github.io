@@ -21,7 +21,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p>Welcome to Computational Materials Design Lab!</p>
 My name is <strong>Suwon Bae</strong> and I am an Assistant Professor in the [School of Mechanical Engineering](https://me.pusan.ac.kr/new/main/index.asp) at Pusan National University (PNU).
 Prior to joining PNU, I was a postdoctoral research associate (PI: [Dr. Kevin Yager](http://yager-research.ca)) in the [Center for Functional Nanomaterials](https://www.bnl.gov/cfn/) at Brookhaven National Laboratory.
 I received my Ph.D. degree from Cornell University under the supervision of [Prof. Meredith Silberstein](https://silbersteinlab.com) and B.S. degree from Hanyang University.
