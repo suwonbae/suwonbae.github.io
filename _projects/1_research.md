@@ -1,7 +1,7 @@
 ---
 layout: page
 title: computational mechanics and dynamics
-description: Molecular Dynamics, Discrete Element Methods, Finite Element Method
+description: Molecular Dynamics, Discrete Element Method, Finite Element Method
 img: assets/img/chain.png
 importance: 1
 category: <
