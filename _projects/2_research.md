@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data-driven materials design
+title: data-driven system design
 description: ML Algorithms, Autonomous Experimentation, High-throughput Simulation/Experiment
 img: assets/img/phase.png
 importance: 2

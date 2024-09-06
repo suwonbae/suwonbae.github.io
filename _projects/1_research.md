@@ -1,7 +1,7 @@
 ---
 layout: page
-title: mutiscale modeling of polymeric materials
-description: Bottom-up, Predictive Modeling and Simulation
+title: computational mechanics and dynamics
+description: Molecular Dynamics, Discrete Element Methods, Finite Element Method
 img: assets/img/chain.png
 importance: 1
 category: <
