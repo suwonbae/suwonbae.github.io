@@ -15,8 +15,8 @@ Solid Mechanics; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/su
 Engineering Design; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EVWl6TtbVfNHn-PaOnOdVfEBSONhU5B0S05gP1UA5RtdRA?e=mGeg4T) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EWnDnIDzNh5GvPwOgiT_OnMB9xylx4arTxFM5bj5Qz3l3Q?e=RU6WjK)), [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EWzzjKtK00hLhEeVfo_viI0BottnJuda2HpeKqUb78bw1A?e=RR2wBe) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/ET03tTHKI6tMoH2FfRr4Rk0BOIBldAbKj6HzAcOaRPFFTw?e=xVPmQc))
 
 Fall 2024)\
-Statics;\
-Applied Solid Mechanics;
+Statics; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/ETqAvulWjPJGlygaptnsDNIBDun2eJYOty3OSYV4ET9mzw?e=j6i6vz) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EU9xxgf59Y1EnHmBwvnaW1wBqc6boU9edV3S6Zl5vhUnig?e=iZs3PE)), [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/ERb63BXivR5Fn2bJdLQ3fooBr4w6Bd4B--7PF55eZf5GsA?e=BAdbW9) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EULDT0CGSg5Eka3yzUlcQfMB01UgOveV8XHCUiLHUo6_Ig?e=aJcJT4))\
+Applied Solid Mechanics; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EY_AMGDEEOVKot69z0hxdzoBJd8AXdotiaTjJEFlXWuN6g?e=FQdNir) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/ERUcXZ_KFEhBq8aB7YVtquQB-tFi4rpn-q6nKA7TM9k4Dg?e=yAwr5P)), [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/Ed5kS0Ir8k1Lt2FYGALuTyMB1lSHLuzS_KlS57ZQXTI0LQ?e=lbDzig) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/ERcJYniGmAtKmxOH5zB5s8UByjYpzIh4EfRLpuTjDye6lA?e=kETv5W));
 
 
 [comment]: <For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.>
