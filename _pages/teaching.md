@@ -22,6 +22,9 @@ Spring 2025)\
 Solid Mechanics; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EVxF8MMhso5MiopvEi4JInUBkjDtmSvE-caQ50lu0nwRwQ?e=MxBsvg) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EeEjclk8vThKgCCh4oE2dmMBc-zb6cRmfzaO7AX9-BxmHA?e=Yx44qE)), [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/ETJeEKkdFJBJu8cJcp3h5wgBgKUhlaWPK96AQ4m1MMEhUw?e=OqU7nz) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EQO8Y2xymWpNtyB3oeeuZ-0BBAhY-A1BNlFY2jrhFvI6Ig?e=rTnsW6))\
 Data-Driven Engineering Design; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EUEKUA2dPJZKpMNgD7Vha6EBUtcNK5YsfWUI_-IuHiCXBw?e=Tp4wbs) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EYe6d6M6QmVIg9iYcmiBRA0B3u2aHiebpqcSz-Ixps-h2A?e=4S8zgn))
 
+Fall 2025)\
+Statics; [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/Ee12bGDzksRMp5TIboU0IGUBMy9MSnEhPlEFDZjuZyJ-Zw?e=xoFu7X) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EWL8fe-iYHxGsmwGHovYqmcBnqQUNtLT9a7ShSb3OuLsQg?e=ygJ5Qt))\
+
 [comment]: <For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.>
 
 [comment]: <Organize your courses by years, topics, or universities, however you like!>
