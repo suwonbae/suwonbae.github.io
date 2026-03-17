@@ -1,0 +1,44 @@
+{{/* Hugo Blox: Alumni (flat list, no bio link, shows lab period and current position) */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{/* Collect alumni from the alumni section (exclude the section index itself), sort by weight */}}
+{{ $members := slice }}
+{{ range where site.Pages "Section" "alumni" }}
+  {{ if .Params.user_groups }}
+    {{ $members = $members | append . }}
+  {{ end }}
+{{ end }}
+{{ $members = sort $members "Params.weight" "asc" }}
+
+<div class="row people-widget">
+  {{ with $block.content.title }}
+    <div class="section-heading col-12 mb-3 text-center">
+      <h1 class="mb-0">{{ . | markdownify | emojify }}</h1>
+    </div>
+  {{ end }}
+
+  {{ range $members }}
+    {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+    <div class="col-12 col-sm-auto people-person">
+      {{ if $avatar }}
+        {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+        {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+        <img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="Avatar">
+      {{ end }}
+
+      <div class="portrait-title">
+        <h2>{{ .Title }}</h2>
+        {{ $lab_start := .Params.lab_start }}
+        {{ $lab_end := .Params.lab_end | default "현재" }}
+        {{ with $lab_start }}
+          <p class="alumni-period">{{ . }} – {{ $lab_end }}</p>
+        {{ end }}
+        {{ with .Params.current }}
+          <p class="alumni-current">현재: {{ . }}</p>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+</div>
