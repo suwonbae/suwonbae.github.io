@@ -2,7 +2,6 @@
 title: 2025년도 글로벌 기초연구실(BRL) 선정
 date: 2025-05-28
 image:
-  filename: featured.jpg
   height: 100
 ---
 

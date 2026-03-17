@@ -2,7 +2,6 @@
 title: 2026년도 개인기초 신진연구(유형B) 선정
 date: 2026-03-13
 image:
-  filename: featured.jpg
   height: 100
 ---
 
