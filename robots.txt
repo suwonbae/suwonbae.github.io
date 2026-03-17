@@ -1,4 +1,3 @@
 User-agent: *
-Disallow:
 
 Sitemap: https://suwonbae.github.io/sitemap.xml
