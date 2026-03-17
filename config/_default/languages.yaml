@@ -6,6 +6,9 @@ ko:
   contentDir: content/ko
   title: BAE Research Group
   weight: 1
+  params:
+    locale:
+      date_format: '2006년 1월 2일'
 
 en:
   languageCode: en-us
