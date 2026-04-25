@@ -8,6 +8,10 @@ sections:
     content:
       title: Teaching
       text: |
+        ## Spring 2026
+        - **Solid Mechanics** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQDjmte20CccTIDObQRl5ti5AZjvwJgqpjH1VqCpUT_IXTQ?e=CyGC6v)
+        - **Data-Driven Engineering Design** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQDsMsJoYNf6S5TX3CRSGOXmAczUE3Dqd97kDaoRQlD9xvc?e=QefreU)
+
         ## Fall 2025
         - **Statics** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/Ee12bGDzksRMp5TIboU0IGUBKpSopgavCeDweh42F9CxwA) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EWL8fe-iYHxGsmwGHovYqmcBnqQUNtLT9a7ShSb3OuLsQg?e=ygJ5Qt)), [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQAufsMemeW4SavXb_6uK_7LAei29cLuxHSrdJ9iOXZc7Dc) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQARywFl9UY5RbsfPFPElIH5AcujzdrJsgPp-bcRmhDu8cA))
 
