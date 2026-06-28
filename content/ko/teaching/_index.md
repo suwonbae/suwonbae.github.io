@@ -9,7 +9,7 @@ sections:
       title: 강의
       text: |
         ## 봄 2026
-        - **고체역학** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQDjmte20CccTIDObQRl5ti5AZjvwJgqpjH1VqCpUT_IXTQ?e=CyGC6v)
+        - **고체역학** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQDjmte20CccTIDObQRl5ti5AZjvwJgqpjH1VqCpUT_IXTQ?e=CyGC6v) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQC3PmdBZ1x3SpeCpM0Pi_t6AUfofWHRfKOPdAGRrXKytk8?e=rLKZEW)), [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQCFe5NgwibMSpYTf7WRhtSsASxoH5hMikM0suxSTQPbN-c?e=8Yv9y2) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQBlhCcW9Xn2QLN1iyVJ-ObGAcp9AA47zBvkEG9D1rnm3mQ?e=L8QPd9))
         - **데이터기반 공학설계** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQDsMsJoYNf6S5TX3CRSGOXmAczUE3Dqd97kDaoRQlD9xvc?e=QefreU)
 
         ## 가을 2025
