@@ -10,7 +10,7 @@ sections:
       text: |
         ## Spring 2026
         - **Solid Mechanics** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQDjmte20CccTIDObQRl5ti5AZjvwJgqpjH1VqCpUT_IXTQ?e=CyGC6v) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQC3PmdBZ1x3SpeCpM0Pi_t6AUfofWHRfKOPdAGRrXKytk8?e=rLKZEW)), [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQCFe5NgwibMSpYTf7WRhtSsASxoH5hMikM0suxSTQPbN-c?e=8Yv9y2) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQBlhCcW9Xn2QLN1iyVJ-ObGAcp9AA47zBvkEG9D1rnm3mQ?e=L8QPd9))
-        - **Data-Driven Engineering Design** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQDsMsJoYNf6S5TX3CRSGOXmAczUE3Dqd97kDaoRQlD9xvc?e=QefreU)
+        - **Data-Driven Engineering Design** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQDsMsJoYNf6S5TX3CRSGOXmAczUE3Dqd97kDaoRQlD9xvc?e=QefreU) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQCz_6jV6iEfRo3HdYBNMHAOAXbS8R69M6UoxovNcQgRT1k?e=1QlLKV))
 
         ## Fall 2025
         - **Statics** — [Midterm](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/Ee12bGDzksRMp5TIboU0IGUBKpSopgavCeDweh42F9CxwA) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/EWL8fe-iYHxGsmwGHovYqmcBnqQUNtLT9a7ShSb3OuLsQg?e=ygJ5Qt)), [Final](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQAufsMemeW4SavXb_6uK_7LAei29cLuxHSrdJ9iOXZc7Dc) ([solution](https://pusanackr-my.sharepoint.com/:b:/g/personal/suwon_bae_pusan_ac_kr/IQARywFl9UY5RbsfPFPElIH5AcujzdrJsgPp-bcRmhDu8cA))
