@@ -6,7 +6,7 @@ last_name: Jang
 
 superuser: false
 
-role: B.S./M.S. Student
+role: M.S. Student
 
 organizations:
   - name: School of Mechanical Engineering
@@ -19,9 +19,13 @@ interests:
 
 experience:
   positions:
-    - title: Undergrad Research Assistant
-      company: BAE Research Group
+    - title: Graduate Research Assistant (B.S./M.S.)
+      company: BAE Research Group, PNU
+      date_start: '2026-09'
+    - title: Undergraduate Research Assistant
+      company: BAE Research Group, PNU
       date_start: '2025-03'
+      date_end: '2026-08'
 
 education:
   courses:

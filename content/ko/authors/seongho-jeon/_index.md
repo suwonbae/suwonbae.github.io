@@ -19,13 +19,13 @@ interests:
 
 experience:
   positions:
-    - title: 대학원연구생
+    - title: 대학원연구원(학석)
       company: BAE 연구실, 부산대학교
-      date_start: '2026-03'
-    - title: 학부연구생
+      date_start: '2025-09'
+    - title: 학부연구원
       company: BAE 연구실, 부산대학교
       date_start: '2025-03'
-      date_end: '2026-02'
+      date_end: '2025-08'
 
 education:
   courses:

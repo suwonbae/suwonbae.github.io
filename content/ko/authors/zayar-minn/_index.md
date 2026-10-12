@@ -6,7 +6,7 @@ last_name: Minn
 
 superuser: false
 
-role: 학사후연구원
+role: 석사과정
 
 organizations:
   - name: 기계공학부
@@ -19,9 +19,13 @@ interests:
 
 experience:
   positions:
-    - title: 학사후 연구원
+    - title: 대학원연구원
+      company: BAE 연구실, 부산대학교
+      date_start: '2026-09'
+    - title: 학사후연구원
       company: BAE 연구실, 부산대학교
       date_start: '2026-03'
+      date_end: '2026-08'
 
 education:
   courses:

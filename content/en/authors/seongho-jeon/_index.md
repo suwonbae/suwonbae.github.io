@@ -19,13 +19,13 @@ interests:
 
 experience:
   positions:
-    - title: Graduate Research Assistant
+    - title: Graduate Research Assistant (B.S./M.S.)
       company: BAE Research Group, PNU
-      date_start: '2026-03'
+      date_start: '2025-09'
     - title: Undergraduate Research Assistant
       company: BAE Research Group, PNU
       date_start: '2025-03'
-      date_end: '2026-02'
+      date_end: '2025-08'
 
 education:
   courses:

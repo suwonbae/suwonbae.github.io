@@ -6,7 +6,7 @@ last_name: Jang
 
 superuser: false
 
-role: 학석과정
+role: 석사과정
 
 organizations:
   - name: 기계공학부
@@ -19,9 +19,13 @@ interests:
 
 experience:
   positions:
-    - title: 학부연구생
+    - title: 대학원연구원(학석)
+      company: BAE 연구실, 부산대학교
+      date_start: '2026-09'
+    - title: 학부연구원
       company: BAE 연구실, 부산대학교
       date_start: '2025-03'
+      date_end: '2026-08'
 
 education:
   courses:
