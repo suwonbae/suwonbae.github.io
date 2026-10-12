@@ -38,3 +38,10 @@ strong, b {
   font-size: 1rem;
   font-weight: bold;
 }
+
+// People widget: 3 per row on all non-mobile widths (theme default is 5 on large screens)
+@media (min-width: 992px) {
+  .people-widget .col-sm-auto {
+    width: 30%;
+  }
+}
